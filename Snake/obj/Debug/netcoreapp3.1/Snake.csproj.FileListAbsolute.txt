@@ -1,0 +1,11 @@
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\GD02Gurankas\OneDrive - The Centre for Entertainment Arts\ScriptingForGames_1\New folder\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
